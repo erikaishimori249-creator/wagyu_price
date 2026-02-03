@@ -59,8 +59,8 @@ p {
 }
 
 .submit-color {
-  background-color: #17a2b8;
-  color: white;
+  background-color: #ffff00;
+  color: #000;
   opacity: 0.9;
   transition: all 0.4s;
   margin: 0 auto;
